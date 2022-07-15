@@ -1,11 +1,11 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-5ba0574b.js",
+    "file": "start-2c8665d0.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
-      "_index-22506258.js",
-      "_index-43c8267c.js",
+      "_index-2fe3c0eb.js",
+      "_index-93b48bfc.js",
       "_singletons-d1fb5791.js"
     ],
     "dynamicImports": [
@@ -20,56 +20,56 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-7bca5c7c.js",
+    "file": "pages/__layout.svelte-10faf37e.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-22506258.js",
-      "_index-b1a267ff.js"
+      "_index-2fe3c0eb.js",
+      "_index-7cf9e65d.js"
     ],
     "css": [
       "assets/pages/__layout.svelte-25c77561.css"
     ]
   },
   "src/routes/__error.svelte": {
-    "file": "pages/__error.svelte-a0f18f86.js",
+    "file": "pages/__error.svelte-54b0e018.js",
     "src": "src/routes/__error.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-22506258.js"
+      "_index-2fe3c0eb.js"
     ]
   },
   "src/routes/Bip-Watchface-View/imagecreator.svelte": {
-    "file": "pages/Bip-Watchface-View/imagecreator.svelte-4503fdea.js",
+    "file": "pages/Bip-Watchface-View/imagecreator.svelte-ccec2c73.js",
     "src": "src/routes/Bip-Watchface-View/imagecreator.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-22506258.js",
+      "_index-2fe3c0eb.js",
       "_navigation-0e6511d1.js",
       "_singletons-d1fb5791.js"
     ]
   },
   "src/routes/Bip-Watchface-View/index.svelte": {
-    "file": "pages/Bip-Watchface-View/index.svelte-5f7353ca.js",
+    "file": "pages/Bip-Watchface-View/index.svelte-da974066.js",
     "src": "src/routes/Bip-Watchface-View/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-22506258.js",
+      "_index-2fe3c0eb.js",
       "_navigation-0e6511d1.js",
       "_singletons-d1fb5791.js"
     ]
   },
   "src/routes/about.svelte": {
-    "file": "pages/about.svelte-da753dae.js",
+    "file": "pages/about.svelte-9eacc3fc.js",
     "src": "src/routes/about.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-22506258.js"
+      "_index-2fe3c0eb.js"
     ],
     "css": [
       "assets/pages/about.svelte-c4b1536c.css"
@@ -83,58 +83,58 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-0c86fad3.js",
+    "file": "pages/index.svelte-427900e1.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-22506258.js"
+      "_index-2fe3c0eb.js"
     ],
     "css": [
       "assets/pages/index.svelte-cd5c4bbc.css"
     ]
   },
   "src/routes/pdfview.svelte": {
-    "file": "pages/pdfview.svelte-eecf827a.js",
+    "file": "pages/pdfview.svelte-1859fac9.js",
     "src": "src/routes/pdfview.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-22506258.js",
+      "_index-2fe3c0eb.js",
       "_navigation-0e6511d1.js",
       "_singletons-d1fb5791.js"
     ]
   },
   "src/routes/projects/docsView.svelte": {
-    "file": "pages/projects/docsView.svelte-c4683efb.js",
+    "file": "pages/projects/docsView.svelte-7fc5e20e.js",
     "src": "src/routes/projects/docsView.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-22506258.js",
-      "_index-43c8267c.js",
-      "_index-b1a267ff.js"
+      "_index-2fe3c0eb.js",
+      "_index-93b48bfc.js",
+      "_index-7cf9e65d.js"
     ],
     "css": [
       "assets/pages/projects/docsView.svelte-1c2be358.css"
     ]
   },
-  "_index-22506258.js": {
-    "file": "chunks/index-22506258.js"
+  "_index-2fe3c0eb.js": {
+    "file": "chunks/index-2fe3c0eb.js"
   },
-  "_index-43c8267c.js": {
-    "file": "chunks/index-43c8267c.js",
+  "_index-93b48bfc.js": {
+    "file": "chunks/index-93b48bfc.js",
     "imports": [
-      "_index-22506258.js"
+      "_index-2fe3c0eb.js"
     ]
   },
   "_singletons-d1fb5791.js": {
     "file": "chunks/singletons-d1fb5791.js"
   },
-  "_index-b1a267ff.js": {
-    "file": "chunks/index-b1a267ff.js",
+  "_index-7cf9e65d.js": {
+    "file": "chunks/index-7cf9e65d.js",
     "imports": [
-      "_index-22506258.js"
+      "_index-2fe3c0eb.js"
     ]
   },
   "_navigation-0e6511d1.js": {
